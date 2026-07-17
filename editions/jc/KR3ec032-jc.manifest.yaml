@@ -21,7 +21,7 @@ assets:
   - {seq: 3, filename: KR3ec032_003-jc.yaml, hash: 'sha256:82f2e638831ff17f6a650ad747c772a98ecdcc83cf3dc587f09205649f8f9fc3'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR3ec032_001-jc.markers.yaml, hash: 'sha256:401bcfca06e68cbdf59a2053f56de7c9424b2f3660b659db4b286e090827a275'}
-  - {seq: 3, role: markers, filename: assets/KR3ec032_003-jc.markers.yaml, hash: 'sha256:0ce2b7e8c50493854aae8ad89ab3e0e392ea46ed4184e219766a99a0bdef674b'}
+  - {seq: 3, role: markers, filename: assets/KR3ec032_003-jc.markers.yaml, hash: 'sha256:d476541484574d10759441d09051550f598cfeba14688467d3c6d7cd433657b1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -3643,4 +3643,4 @@ table_of_contents:
   label: 諸物有毒解諸物毒合為一例
   type: section
   level: 3
-hash: sha256:a6bb276765a34a99569a4b96c26e1496c2d37df0b5e890ef672bcd6f373fde0e
+hash: sha256:4ce1210a8dbb550019254ed3d93b65da2688569ccd2a95d09a8795f12123db47
